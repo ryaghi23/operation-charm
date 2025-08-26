@@ -1,0 +1,11 @@
+node_modules/
+data/
+db/
+lmdb-images/
+lmdb-pages.sqsh
+*.sqsh
+node-lmdb-patched.tar.gz
+*.zip
+*.7z
+*.tar
+*.tar.gz
