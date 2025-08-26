@@ -12,3 +12,5 @@
     "node-lmdb": "file:node-lmdb-patched.tar.gz"
   }
 }
+"scripts": { "start": "node server.js" },
+"dependencies": { "express": "^4.18.1" }
